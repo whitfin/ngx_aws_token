@@ -15,7 +15,7 @@ your system to use this module.
 
 # Installation
 
-You can use LuaRocks to install directly from this repository:
+This module is available via LuaRocks, so you can install the latest from there:
 
 ```bash
 luarocks install ngx_aws_token

@@ -7,6 +7,7 @@ source = {
 description = {
     summary = "A Lua module for OpenResty to simplify proxying to AWS services",
     homepage = "https://github.com/whitfin/ngx_aws_token",
+    maintainer = "Isaac Whitfield <iw@whitfin.io>"
     license = "MIT"
 }
 dependencies = {
